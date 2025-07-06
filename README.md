@@ -2,7 +2,7 @@
 <h2>Software Developer</h2>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=bdaggg&label=Profile%20views&color=0e75b6&style=flat" alt="keremdursn" /> </p></h2>
 
-- 🔭 I’m currently working on **Golang and ABAP**.
+- 🔭 I’m currently working on **Golang and Python**.
 - 📫 How to reach me **kerem576dursun@hotmail.com**
 - **ybmorganization.com**
 
