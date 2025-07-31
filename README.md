@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Golang and Python**.
 - 📫 How to reach me **kerem576dursun@hotmail.com**
-- - [keremdursun.tr](https://keremdursun.tr)
-- - **ybmorganization.com**
+- - **[keremdursun.tr](https://keremdursun.tr)**
+- - **[ybmorganization.com](https://ybmorganization.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
